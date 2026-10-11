@@ -1,3 +1,3 @@
-# TurboWarp-custom-extension
+# TurboWarp-Custom Extensions 
 
-几个简单的自定义扩展
+Several simple custom extensions, made using Vibe Coding.
